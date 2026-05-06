@@ -23,4 +23,4 @@ Nigeria shows highest extreme heat exposure
 Kenya has high rainfall variability
 Ethiopia shows moderate but rising trends
 
-The findings highlight increasing climate risks across Africa and support the need for adaptation strategies ahead of COP32.
+The findings highlight increasing climate risks across Africa and support the need for adaptation strategies ahead of COP32.# news-sentiment-analysis
